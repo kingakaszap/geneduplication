@@ -21,6 +21,8 @@ Concondant and discordant patterns of duplicate pairs across four tissues. The Y
 Specific expression patterns of duplicate pairs in the four tissues. „U” represents „unbiased”, „F” „female-biased” and „M” „male-biased” expression, with the combinations of these letters referring to expression patterns of paralogous pairs. 
 
 ## Code
+An example of the R code I used for differential gene expression analysis can be found [here](dge_r_scripts/dge_gonad.R).
+
 
 
 
